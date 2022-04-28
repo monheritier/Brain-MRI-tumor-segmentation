@@ -1,2 +1,2 @@
-# Brain-MRI-tumor-segmentation
+# Brain-MRI-tumor-segmentation 🧠
 Medical image processing is the most challenging and emerging field now a days. Processing of MRI images is one of the part of this field. This paper describes the proposed strategy to detect &amp; extraction of brain tumour from patient’s MRI scan images of the brain. This method incorporates with some noise removal functions, segmentation and morphological operations which are the basic concepts of image processing. Detection and extraction of tumour from MRI scan images of the brain is done by using MATLAB software.
